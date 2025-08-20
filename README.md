@@ -21,7 +21,7 @@
 - 👥 Open to collaborating with other developers and contributing to **Open Source**
 - 🎯 Goals: Deliver high-performance projects & enhance system architecture skills
 - 📢 Check out my portfolio: **[portfolio](https://portfolio-chi-six-64.vercel.app)**
-- 📝 View my **[Resume](https://github.com/GreenCode8668/GreenCode8668/blob/main/JuanDelaCruzResume.pdf)**
+- 📝 View my **[Resume](https://github.com/GreenCode668/GreenCode668/blob/main/JuanDelaCruzResume.pdf)**
 
 ---
 
