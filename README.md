@@ -5,11 +5,12 @@
 ---
 
 ### 🎯 What I'm Working On:
-- 🌱 Deepening my expertise in **Spring Boot, AWS, PostgreSQL, Docker, and Microservices**
-- 🛠️ Building **scalable microservice-based backend solutions**
-- 👥 Open to collaborating with other developers and contributing to **Open Source**
-- 🎯 Goals: Deliver high-performance projects & enhance system architecture skills
-- 📢 Check out my portfolio: **[portfolio](https://portfolio-chi-six-64.vercel.app)**
+- 👨‍💻 My portfolio website [https://my_portfolio](https://portfolio-nine-sepia-rdfyisc6yg.vercel.app).
+- 🌱 I’m currently working with ReactJs, NextJs, VueJs, NodeJs, AWS, Azure, React Native, NestJs, ExpressJs.
+- 👯 I’m looking to collaborate with other developers.
+- 🥅 2025-2026 Goals: Web3, Solidity, Golang. <!-- and a little bit of Data Science. -->
+- ⚡ Fun fact: I love coding, exploring new things, reading docs, and watching movies.
+- 📫 Reach me at **safecode99dev668@gmail.com** or **@Juan.C**.
 - 📝 View my **[Resume](https://github.com/GreenCode668/GreenCode668/blob/main/JuanDelaCruzResume.pdf)**
 
 ---
