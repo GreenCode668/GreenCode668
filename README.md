@@ -27,7 +27,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GreenCode668&theme=radical)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreenCode668&show_icons=true&theme=radical) 
-<!--![YOUR github stats](https://github-readme-stats.vercel.app/api?username=GreenCode668&show_icons=true&theme=radical) -->
+![Juan Dela Cruz' github stats](https://github-readme-stats.vercel.app/api?username=GreenCode668&show_icons=true&theme=radical)
 
 ---
 
