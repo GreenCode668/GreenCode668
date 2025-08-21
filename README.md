@@ -21,7 +21,7 @@
 
 ## Visual Status
 
-[![Juan Dela Cruz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GreenCode668&bg_color=000224&color=d8abd5&line=ff00a2&point=ffc800&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Juan Dela Cruz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GreenCode668&bg_color=33cc33&color=d8abd5&line=ff00a2&point=ffc800&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GreenCode668&theme=radical)](https://git.io/streak-stats)
