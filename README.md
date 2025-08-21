@@ -2,17 +2,6 @@
 
 # Hi, I'm <a href="https://sanajitjana.github.io" target="_blank">Juan Dela Cruz</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## 🚀 Full-Stack Developer Web & Blockchain Developer
-
-### 📬 Connect with Me:
-<div align="left">
-<a href="https://portfolio-chi-six-64.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-008000.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="dmytrolebed07@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://www.hackerrank.com"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-32C766?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-</div>
-
 ---
 
 ### 🎯 What I'm Working On:
@@ -32,7 +21,7 @@
 
 ## Visual Status
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vikas-ukani&bg_color=000224&color=d8abd5&line=ff00a2&point=ffc800&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Juan Dela Cruz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GreenCode668&bg_color=000224&color=d8abd5&line=ff00a2&point=ffc800&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikas-ukani&theme=radical)](https://git.io/streak-stats)
