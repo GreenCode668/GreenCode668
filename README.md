@@ -30,22 +30,15 @@
 
 ---
 
-### ⚡ Interests & Hobbies:
-- 💻 Exploring new technologies & scalable architectures
-- 🏍️ Riding & traveling
-- 🎯 Competitive coding & problem-solving
+## Visual Status
 
----
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vikas-ukani&bg_color=000224&color=d8abd5&line=ff00a2&point=ffc800&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 📊 GitHub Stats:
-<p>
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=sanajitjana&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>  
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sanajitjana&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-</p>
 
-[![Sanajit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanajitjana&theme=github-compact)](https://github.com/sanajitjana)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikas-ukani&theme=radical)](https://git.io/streak-stats)
 
-![](./profile-3d-contrib/profile-season-animate.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-ukani&show_icons=true&theme=radical) ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=vikas-ukani&show_icons=true&theme=radical)
+<!-- [![Vikas Ukani's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vikas-ukani)](https://github.com/vikas-ukani/github-readme-stats) -->
 
 ---
 
