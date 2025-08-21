@@ -24,10 +24,10 @@
 [![Juan Dela Cruz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GreenCode668&bg_color=000224&color=d8abd5&line=ff00a2&point=ffc800&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikas-ukani&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GreenCode668&theme=radical)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-ukani&show_icons=true&theme=radical) ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=vikas-ukani&show_icons=true&theme=radical)
-<!-- [![Vikas Ukani's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vikas-ukani)](https://github.com/vikas-ukani/github-readme-stats) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreenCode668&show_icons=true&theme=radical) ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=vikas-ukani&show_icons=true&theme=radical)
+[![GreenCode's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GreenCode)](https://github.com/GreenCode668/github-readme-stats) 
 
 ---
 
