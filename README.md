@@ -2,7 +2,7 @@
 
 # Hi, I'm <a href="https://sanajitjana.github.io" target="_blank">Juan Dela Cruz</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## 🚀 Full-Stack Web Developer | Backend Specialist | Blockchain Developer
+## 🚀 Full-Stack Developer Web & Blockchain Developer
 
 ### 📬 Connect with Me:
 <div align="left">
