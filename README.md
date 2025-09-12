@@ -1,6 +1,6 @@
 <!-- Sanajit-Jana/sanajitjana's GitHub Profile -->
 
-# Hi, I'm <a href="https://sanajitjana.github.io" target="_blank">Juan Dela Cruz</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, I'm <a href="https://sanajitjana.github.io" target="_blank">Chadwick Thomas Brunner</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ---
 
@@ -11,8 +11,8 @@
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2025-2026 Goals: Web3, Solidity, Golang. <!-- and a little bit of Data Science. -->
 - ⚡ Fun fact: I love coding, exploring new things, reading docs, and watching movies.
-- 📫 Reach me at **safecode99dev668@gmail.com** or **@Juan.C**.
-- 📝 View my **[Resume](https://github.com/GreenCode668/GreenCode668/blob/main/JuanDelaCruzResume.pdf)**
+- 📫 Reach me at **dmytrolebed07@gmail.com** or **@chadwick.T**.
+- 📝 View my **[Resume](https://github.com/GreenCode668/GreenCode668/blob/main/ChadwickResume.pdf)**
 
 ---
 
