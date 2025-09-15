@@ -6,13 +6,12 @@
 
 ### 🎯 What I'm Working On:
 
-- 👨‍💻 My portfolio website [https://my_portfolio](https://portfolio-nine-sepia-rdfyisc6yg.vercel.app).
+
 - 🌱 I’m currently working with ReactJs, NextJs, VueJs, NodeJs, AWS, Azure, React Native, NestJs, ExpressJs.
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2025-2026 Goals: Web3, Solidity, Golang. <!-- and a little bit of Data Science. -->
 - ⚡ Fun fact: I love coding, exploring new things, reading docs, and watching movies.
 - 📫 Reach me at **dmytrolebed07@gmail.com** or **@chadwick.T**.
-- 📝 View my **[Resume](https://github.com/GreenCode668/GreenCode668/blob/main/ChadwickResume.pdf)**
 
 ---
 
@@ -274,12 +273,12 @@
 
 ## Visual Status
 
-[![Juan Dela Cruz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GreenCode668&bg_color=000224&color=d8abd5&line=ff00a2&point=ffc800&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Chadwick's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GreenCode668&bg_color=000224&color=d8abd5&line=ff00a2&point=ffc800&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GreenCode668&theme=radical)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreenCode668&show_icons=true&theme=radical)
-![Juan Dela Cruz' github stats](https://github-readme-stats.vercel.app/api?username=GreenCode668&show_icons=true&theme=radical)
+![Chadwick' github stats](https://github-readme-stats.vercel.app/api?username=GreenCode668&show_icons=true&theme=radical)
 
 ---
 
