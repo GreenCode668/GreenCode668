@@ -71,25 +71,16 @@ Hey there! 👋 I'm Eric Ho, based in Hong Kong 🇭🇰 — a Founder, Entrepre
   <h2> 🎖️ Open Source Achievements </h2><br>
 <br>
   
-[![An image of @GreenCode668's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/GreenCode668)](https://holopin.io/@GreenCode668)
+<img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/Open%20Source%20Achievements.png" width="100%" alt="marginline"/>
 
   
 </div> 
 <img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
 
 <br>
-<div align="center">
-<img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="16px" align="left"/>
-<img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="16px" align="right"/>
-  <h2> 🆔 Developer Card </h2><br>
-<br>
-<a href="https://app.daily.dev/GreenCode668"><img src="https://api.daily.dev/devcards/v2/JVyK3ICBzKPdM0rcDj1o4.png?type=wide&r=vde" width="652" alt="Eric Ho's Dev Card"/></a>  
-</div> 
-<img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
 
-<br>
 <div align="center">
-  <img src="https://github.com/GreenCode668/GreenCode668/assets/75434191/88d74967-e5e4-4423-836a-7f3c1638e5b4" alt="pixel guy using computer" width="100%" /><br>
+  <img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274606310-88d74967-e5e4-4423-836a-7f3c1638e5b4.gif" alt="pixel guy using computer" width="100%" /><br>
 </div>
 <div align="center">
 
