@@ -12,7 +12,7 @@
 
 <div align="center"> 
 <p style="font-size: medium"><b>Profile Views</b></p>
-<img src="https://komarev.com/ghpvc/?username=GreenCode668" alt="GitHub profile views" />
+<img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274608182-68ba38fe-129a-4d85-be33-62eb4ba50c05.png" alt="GitHub profile views" />
 <br><br>
 <a href="https://github.com/GreenCode668" target="_blank">
   <img src="https://img.shields.io/github/followers/GreenCode668?label=Follow&style=social" alt="Follow me on GitHub" />
