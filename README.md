@@ -1,12 +1,12 @@
 <img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274604631-59163c56-55ac-4813-b4aa-b57082e708e6.gif" align="middle" alt="Banner" width="100%"/>
 
-<img src="https://github.com/GreenCode668/GreenCode668/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+<img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
 <div align="center">
   <img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="1.75%" align="left" alt="flame1"/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Eric+Ho+and+Welcome+to+my+Profile!" alt="Hey, I'm Eric Ho and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
   <img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="1.75%" align="right" alt="flame2"/>
 </div>
-<img src="https://github.com/GreenCode668/GreenCode668/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+<img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
 
 <img  src= "https://github.com/GreenCode668/GreenCode668/assets/75434191/68ba38fe-129a-4d85-be33-62eb4ba50c05"  width="100%" alt="marginline"/>
 
@@ -36,7 +36,7 @@
 </div>
 </div>
 <br>
-<img src="https://github.com/GreenCode668/GreenCode668/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+<img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
 
 <div align="center">   <img src="https://github.com/GreenCode668/GreenCode668/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="left"/>
 <img src="https://github.com/GreenCode668/GreenCode668/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="right" alt="flame"/>
@@ -44,7 +44,7 @@
 <br>
 </div>
 
-<img align="right" src="https://github.com/GreenCode668/GreenCode668/assets/75434191/d9e4b62b-5878-4d64-a362-bce0b027ed03" height="560px" alt="pixel city image">
+<img align="right" src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274606071-d9e4b62b-5878-4d64-a362-bce0b027ed03.gif" height="560px" alt="pixel city image">
 <p style="animation: fadein 2s; font-size: medium; text-align: left">
 Hey there! 👋 I'm Eric Ho, based in Hong Kong 🇭🇰 — a Founder, Entrepreneur, Full Stack Developer, Freelancer & Full-Time Open-Sourcerer who creates digital experiences that (usually) work on the first try. Welcome to my corner of the internet ✌️.<br><br>
 - ✨ <b>Builder at Heart:</b> I focus on creating innovative apps and developer-first tools. I treat code like poetry and architecture like a fortress—building robust systems is just how I relax 😄.<br>
@@ -55,7 +55,7 @@ Hey there! 👋 I'm Eric Ho, based in Hong Kong 🇭🇰 — a Founder, Entrepre
   <br>Feel free to explore my repos or <a href="mailto:derek96langston1218@outlook.com" >get in touch</a> for business inquiries & collaborations!<br>
 </p>
 
-<img src="https://github.com/GreenCode668/GreenCode668/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+<img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
 <div align="center">
   <img src="https://github.com/GreenCode668/GreenCode668/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="left"/>
 <img src="https://github.com/GreenCode668/GreenCode668/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="right"/>
@@ -65,7 +65,7 @@ Hey there! 👋 I'm Eric Ho, based in Hong Kong 🇭🇰 — a Founder, Entrepre
   <img src="https://render.gitanimals.org/lines/{GreenCode668}" width="800" height="300"/>
 </a>
 </div>
-<img src="https://github.com/GreenCode668/GreenCode668/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+<img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
 
 <br>
 <div align="center">
@@ -78,7 +78,7 @@ Hey there! 👋 I'm Eric Ho, based in Hong Kong 🇭🇰 — a Founder, Entrepre
 
   
 </div> 
-<img src="https://github.com/GreenCode668/GreenCode668/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+<img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
 
 <br>
 <div align="center">
@@ -88,7 +88,7 @@ Hey there! 👋 I'm Eric Ho, based in Hong Kong 🇭🇰 — a Founder, Entrepre
 <br>
 <a href="https://app.daily.dev/GreenCode668"><img src="https://api.daily.dev/devcards/v2/JVyK3ICBzKPdM0rcDj1o4.png?type=wide&r=vde" width="652" alt="Eric Ho's Dev Card"/></a>  
 </div> 
-<img src="https://github.com/GreenCode668/GreenCode668/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+<img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
 
 <br>
 <div align="center">
@@ -104,7 +104,7 @@ Hey there! 👋 I'm Eric Ho, based in Hong Kong 🇭🇰 — a Founder, Entrepre
 
 ![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,atom,aws,azure,bash,blender,bootstrap,c,cs,cpp,cloudflare,codepen,css,dart,django,docker,dotnet,eclipse,express,figma,firebase,flask,flutter,gcp,git,github,githubactions,gitlab,go,gradle,gulp,heroku,html,idea,java,js,jquery,kotlin,linkedin,linux,md,mongodb,mysql,netlify,nextjs,nginx,nodejs,ps,php,rust,svelte,tauri,electron,postgres,powershell,py,pytorch,qt,react,redux,regex,sass,sqlite,stackoverflow,svg,tailwind,tensorflow,twitter,ts,unity,unreal,vercel,visualstudio,vite,vscode,vue,webflow,webpack,wordpress&perline=15)
 
-<img src="https://github.com/GreenCode668/GreenCode668/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+<img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
 
 </div>
 
@@ -168,12 +168,12 @@ Hey there! 👋 I'm Eric Ho, based in Hong Kong 🇭🇰 — a Founder, Entrepre
 </div>
 
 
-<img src="https://github.com/GreenCode668/GreenCode668/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+<img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
 
   <img src="https://github.com/GreenCode668/GreenCode668/assets/75434191/b82b27ff-26ed-498b-b8ca-bd575e5c62a9" width="100%" />
 
 <div align="center">
-  <img src="https://github.com/GreenCode668/GreenCode668/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+  <img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
 
   <img src="https://github.com/GreenCode668/GreenCode668/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="left" alt="flame"/>
   <img src="https://github.com/GreenCode668/GreenCode668/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="right" alt="flame"/>
@@ -190,7 +190,7 @@ Hey there! 👋 I'm Eric Ho, based in Hong Kong 🇭🇰 — a Founder, Entrepre
 [![Eric Ho's wakatime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=30609&api_domain=hackatime.hackclub.com&theme=default&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
 )](https://hackatime.hackclub.com/@GreenCode668)
 </div>
-<img src="https://github.com/GreenCode668/GreenCode668/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+<img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
 
 
 <div align="center">
@@ -204,7 +204,7 @@ Hey there! 👋 I'm Eric Ho, based in Hong Kong 🇭🇰 — a Founder, Entrepre
 </div>
 <br>
 <div align="center">
-  <img src="https://github.com/GreenCode668/GreenCode668/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+  <img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
 
   <img src="https://github.com/GreenCode668/GreenCode668/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="left"/>
   <img src="https://github.com/GreenCode668/GreenCode668/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="right"/>
@@ -231,7 +231,7 @@ Hey there! 👋 I'm Eric Ho, based in Hong Kong 🇭🇰 — a Founder, Entrepre
 
 </div>
 <div align="center">
-<img src="https://github.com/GreenCode668/GreenCode668/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+<img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
 
   <img src="https://github.com/GreenCode668/GreenCode668/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="left"/>
   <img src="https://github.com/GreenCode668/GreenCode668/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="right"/>
@@ -249,12 +249,12 @@ Hey there! 👋 I'm Eric Ho, based in Hong Kong 🇭🇰 — a Founder, Entrepre
 
 </div>
 <br>
-  <img src="https://github.com/GreenCode668/GreenCode668/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+  <img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
 <br>
 
 <div  align="center">
 
 <img src="https://github.com/user-attachments/assets/ef037db2-1e63-4781-89d8-0b94e6eed88e"  width="100%" />
 </div>
-  <img src="https://github.com/GreenCode668/GreenCode668/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+  <img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
   
