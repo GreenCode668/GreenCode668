@@ -150,16 +150,6 @@ Hey there! 👋 I'm Eric Ho, based in Hong Kong 🇭🇰 — a Founder, Entrepre
 <img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
 
 <div align="center">
-  <img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="16px" align="left"/>
-  <img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="16px" align="right"/>
-
-  <h2> 💡 Daily Inspiration </h2>
-<p style="animation: fadein 2s;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
-</div>
-<br>
-<div align="center">
   <img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
 
   <img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="16px" align="left"/>
@@ -202,10 +192,4 @@ Hey there! 👋 I'm Eric Ho, based in Hong Kong 🇭🇰 — a Founder, Entrepre
 <br>
   <img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
 <br>
-
-<div  align="center">
-
-<img src="https://github.com/user-attachments/assets/ef037db2-1e63-4781-89d8-0b94e6eed88e"  width="100%" />
-</div>
-  <img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
   
