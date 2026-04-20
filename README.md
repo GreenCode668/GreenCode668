@@ -160,25 +160,6 @@ Hey there! 👋 I'm Eric Ho, based in Hong Kong 🇭🇰 — a Founder, Entrepre
 
   <img src="https://github.com/GreenCode668/GreenCode668/assets/75434191/b82b27ff-26ed-498b-b8ca-bd575e5c62a9" width="100%" />
 
-<div align="center">
-  <img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
-
-  <img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="16px" align="left" alt="flame"/>
-  <img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="16px" align="right" alt="flame"/>
-
-
-  <h2> 👨‍💻 Work Activity </h2>
-  <br>
-
-
-
-
-<br>
-
-[![Eric Ho's wakatime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=30609&api_domain=hackatime.hackclub.com&theme=default&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
-)](https://hackatime.hackclub.com/@GreenCode668)
-</div>
-<img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
 
 
 <div align="center">
