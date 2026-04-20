@@ -87,13 +87,6 @@ Hey there! 👋 I'm Eric Ho, based in Hong Kong 🇭🇰 — a Founder, Entrepre
 </div>
 
 <div align="center">
-
-  <img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/cd4dd9d794422a3d4b36a469d4ff6e1f.gif" alt="pixel city night" width="100%" /><br>
-</div>
-
-<img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
-
-<div align="center">
 <img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="16px" align="left"/>
 <img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="16px" align="right"/>
 
