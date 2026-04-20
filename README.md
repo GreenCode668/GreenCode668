@@ -98,14 +98,15 @@ Hey there! 👋 I'm Eric Ho, based in Hong Kong 🇭🇰 — a Founder, Entrepre
 
 <div align="center">
 
-  <img src="https://github.com/GreenCode668/GreenCode668/assets/75434191/3fe61233-f76c-4fd8-aae8-001549b75839" alt="pixel city night" width="100%" /><br>
+  <img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/cd4dd9d794422a3d4b36a469d4ff6e1f.gif" alt="pixel city night" width="100%" /><br>
 </div>
 
-
+<img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
 
 <div align="center">
 <img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="16px" align="left"/>
 <img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="16px" align="right"/>
+
   <h2> 📊 GitHub Analytics </h2><br>
 
 
@@ -158,10 +159,6 @@ Hey there! 👋 I'm Eric Ho, based in Hong Kong 🇭🇰 — a Founder, Entrepre
 
 <img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
 
-  <img src="https://github.com/GreenCode668/GreenCode668/assets/75434191/b82b27ff-26ed-498b-b8ca-bd575e5c62a9" width="100%" />
-
-
-
 <div align="center">
   <img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="16px" align="left"/>
   <img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="16px" align="right"/>
@@ -181,17 +178,15 @@ Hey there! 👋 I'm Eric Ho, based in Hong Kong 🇭🇰 — a Founder, Entrepre
   <h2> ❤️ Support My Work </h2>
   <br>
 
-  <a href="https://github.com/sponsors/GreenCode668">
-    <img src="https://img.shields.io/badge/Sponsor-%231EAEDB.svg?&style=for-the-badge&logo=GitHub-Sponsors&logoColor=white" alt="Sponsor GreenCode668">
-  </a>
-  <a href="https://ko-fi.com/GreenCode668">
-    <img src="https://img.shields.io/badge/Ko--fi-%23F16061.svg?&style=for-the-badge&logo=Ko-fi&logoColor=white" alt="Ko-fi">
-  </a>
+  <img src="https://img.shields.io/badge/Sponsor-%231EAEDB.svg?&style=for-the-badge&logo=GitHub-Sponsors&logoColor=white" alt="Sponsor GreenCode668">
+ 
+  <img src="https://img.shields.io/badge/Ko--fi-%23F16061.svg?&style=for-the-badge&logo=Ko-fi&logoColor=white" alt="Ko-fi">
+
 </div>
 <br>
 <div align="center">
 
-  <img src="https://github.com/GreenCode668/GreenCode668/assets/75434191/d1f6cc5c-2953-4981-b09a-95e6c8919933" width="48%" /> 
+  <img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274607214-d1f6cc5c-2953-4981-b09a-95e6c8919933.gif" width="48%" /> 
 
   <br>
 
@@ -207,14 +202,11 @@ Hey there! 👋 I'm Eric Ho, based in Hong Kong 🇭🇰 — a Founder, Entrepre
 
  <h2> 📢 Join the Community </h2>
   <br>
-  <a href="https://dly.to/LQm0vGkFCsi">
-    <img src="https://img.shields.io/badge/Join_Squad-%2300C4CC.svg?&style=for-the-badge&logo=daily.dev&logoColor=white" alt="Join daily.dev">
-  </a>
+  <img src="https://img.shields.io/badge/Join_Squad-%2300C4CC.svg?&style=for-the-badge&logo=daily.dev&logoColor=white" alt="Join daily.dev">
 <br>
 <br>
 <br>
-  <img src="https://github.com/GreenCode668/GreenCode668/assets/75434191/b1a50403-c00b-4159-8972-8812b77094e1" width="48%" />
-
+  <img src="https://github.com/GreenCode668/GreenCode668/blob/main/assets/274615264-b1a50403-c00b-4159-8972-8812b77094e1.gif" width="48%" />
 
 </div>
 <br>
